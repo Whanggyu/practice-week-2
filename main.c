@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-<<<<<<< HEAD
 int minus(int x, int y) {
 	return x - y;
 }
